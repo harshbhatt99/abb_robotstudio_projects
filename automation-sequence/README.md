@@ -10,24 +10,27 @@ The objective of this lab was divided into 3 parts as follows:
 
 Here is the Robot setup in the RobotStudio and the physical station.
 <p align="center">
-  <img src="automation-sequence/simulation_pictures/Robot_Station_Simulation.jpg" width="500">
-  <img src="automation-sequence/simulation_pictures/Robot_Station_Physical.jpg" width="500">
+  <img src="simulation_pictures/Robot_Station_Simulation.jpg" width="500">
+  <img src="simulation_pictures/Robot_Station_Physical.jpg" width="500">
 </p>
 
 This picture shows the placement of the workobject with the names used in the code.
 <p align="center">
-  <img src="automation-sequence/simulation_pictures/Work_Objects.jpg" width="500">
+  <img src="simulation_pictures/Work_Objects.jpg" width="500">
 </p>
 
 This picture is to visualize the path of the robot.
 <p align="center">
-  <img src="automation-sequence/simulation_pictures/Path_Planning.jpg" width="500">
+  <img src="simulation_pictures/Path_Planning.jpg" width="500">
 </p>
 
 The following picture shows the robotic arm in action. The complete demonstration video is uploaded on YouTube. 
 <p align="center">
-  <img src="automation-sequence/simulation_pictures/Automation_Sequence.jpg" width="500">
+  <img src="simulation_pictures/Automation_Sequence.jpg" width="500">
 </p>
+
+Complete video demonstration can be found here.
+[https://www.youtube.com/watch?v=e7sxpr8Y60U]
 
 ### Dependencies
 
@@ -44,9 +47,9 @@ The following picture shows the robotic arm in action. The complete demonstratio
 
 Contributors names and contact info
 
-Harsh Bhatt [@harshbhatt99]
-Hardik Patel
-Sepehr Sheikhipour
+Harsh Bhatt [@harshbhatt99],
+Hardik Patel,
+Sepehr Sheikhipour,
 
 ## Acknowledgments
 
