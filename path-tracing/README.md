@@ -1,4 +1,4 @@
-# Automation Sequence
+# Trajectory Planning - Path Tracing
 This project immitates the path tracing for the applications like sealing in the automotive industries. 
 
 ## Description
